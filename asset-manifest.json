@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "https://zhangqiankunai.github.io/zhangjunwei/static/css/main.e5cdda46.css",
-    "main.js": "https://zhangqiankunai.github.io/zhangjunwei/static/js/main.ecee20eb.js",
+    "main.css": "https://zhangqiankunai.github.io/zhangjunwei/static/css/main.4729d732.css",
+    "main.js": "https://zhangqiankunai.github.io/zhangjunwei/static/js/main.1265199e.js",
     "static/js/787.68a64e9b.chunk.js": "https://zhangqiankunai.github.io/zhangjunwei/static/js/787.68a64e9b.chunk.js",
-    "static/media/output_000.mp4": "https://zhangqiankunai.github.io/zhangjunwei/static/media/output_000.2f2093088c7784a866d4.mp4",
     "index.html": "https://zhangqiankunai.github.io/zhangjunwei/index.html",
-    "main.e5cdda46.css.map": "https://zhangqiankunai.github.io/zhangjunwei/static/css/main.e5cdda46.css.map",
-    "main.ecee20eb.js.map": "https://zhangqiankunai.github.io/zhangjunwei/static/js/main.ecee20eb.js.map",
+    "main.4729d732.css.map": "https://zhangqiankunai.github.io/zhangjunwei/static/css/main.4729d732.css.map",
+    "main.1265199e.js.map": "https://zhangqiankunai.github.io/zhangjunwei/static/js/main.1265199e.js.map",
     "787.68a64e9b.chunk.js.map": "https://zhangqiankunai.github.io/zhangjunwei/static/js/787.68a64e9b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5cdda46.css",
-    "static/js/main.ecee20eb.js"
+    "static/css/main.4729d732.css",
+    "static/js/main.1265199e.js"
   ]
 }
